@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-header{
+    background-color: greenyellow;
+    padding: 20px;
+}
+.nav-header > div{
+    display: flex;     
+}
+.box-a{
+     margin-left: 850px;  
+}
+.box-a > a{
+    margin-right: 20px;
+}
+.main {
+    margin-bottom: 20px;
+}
+
+.img-psicologo{
+    background-color: aqua;
+    display: inline;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px; 
+}
+.head-title-card > .card-title{
+   display: inline-block;
+   width: 100px;
+}
+
+.card-psicologo {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height: 300px;
+    padding-top: 10px;
+    text-align: center; 
+    margin-top: 30px;
+    margin-left: 450px;
+}
+.items{
+    list-style-type: none;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    
+}
+.ar{
+    background-color: white;
+    border: 1px solid black;
+    flex: 150px;
+}

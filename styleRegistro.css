@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.form-cuenta{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    margin-left: 450px;
+    margin-top: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+}
+.values{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+}
+.button{
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+}
